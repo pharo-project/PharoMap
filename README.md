@@ -2,7 +2,7 @@
 To have a map of the Pharo related projects
 
 
-## Pharo projects
+## Pharo organisations
 
 * [http://www.github.com/pharo-contributions/](http://www.github.com/pharo-contributions/)
 Some external packages of common interest.
