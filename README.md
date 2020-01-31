@@ -18,5 +18,6 @@ No SQL database
 
 ## Documentation
 
-*
+* [https://github.com/pharo-open-documentation/pharo-wiki](https://github.com/pharo-open-documentation/pharo-wiki)
+* [https://github.com/pharo-open-documentation/awesome-pharo](https://github.com/pharo-open-documentation/awesome-pharo)
 
