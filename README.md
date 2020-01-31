@@ -14,7 +14,7 @@ UI Builder for Pharo
 Database drivers and object relational mapper
 * [http://www.github.com/pharo-nosql/](http://www.github.com/pharo-nosql/)
 No SQL database
-* [https://github.com/PharoAI](https://github.com/PharoAI)
+* [https://github.com/pharo-ai](https://github.com/pharo-ai)
 Algorithms and models for AI
 * [https://github.com/pharo-iot](https://github.com/pharo-iot)
 Libraries and IDE
