@@ -16,7 +16,11 @@ Database drivers and object relational mapper
 No SQL database
 * [http://www.github.com/pharo-contributions/](http://www.github.com/pharo-contributions/)
 * [https://github.com/PharoAI](https://github.com/PharoAI)
+Algorithms and models for AI
 * [https://github.com/pharo-iot](https://github.com/pharo-iot)
+Libraries and IDE
+* [https://github.com/pharo-containers](https://github.com/pharo-containers)
+Extra collections for Pharo
 
 ## Documentation
 
