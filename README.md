@@ -19,7 +19,9 @@ Algorithms and models for AI
 * [https://github.com/pharo-iot](https://github.com/pharo-iot)
 Libraries and IDE
 * [https://github.com/pharo-containers](https://github.com/pharo-containers)
-Extra collections for Pharo
+Extra and well packaged collections for Pharo
+* [https://github.com/pharo-open-documentation](https://github.com/pharo-open-documentation)
+Nice documentation
 
 ## Documentation
 
