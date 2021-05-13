@@ -10,6 +10,8 @@ Some external packages of common interest.
 New generation graphical layer
 * [http://www.github.com/pharo-spec/](http://www.github.com/pharo-spec/)
 UI Builder for Pharo
+* [http://www.github.com/pharo-vcs/](http://www.github.com/pharo-vcs/)
+Version control for Pharo
 * [http://www.github.com/pharo-rdbms/](http://www.github.com/pharo-rdbms/)
 Database drivers and object relational mapper
 * [http://www.github.com/pharo-nosql/](http://www.github.com/pharo-nosql/)
